@@ -2,7 +2,7 @@ body{
     background-color: #ffd2c8;
 }
 
-p{
+.header p{
     border: solid;
     border-radius: 5px;
     margin: 20px, 10px, 10px, 10px;
@@ -25,7 +25,9 @@ p{
     justify-content: left;
     gap: 10px;
     color: #8c0c4c;
-    font-family: "Big Shoulders Inline Display", serif;
+    font-family: "Train One", serif;
+    font-weight: 400;
+    font-style: normal;
 
 }
 
@@ -41,6 +43,67 @@ h1{
     color: #640844;
     text-align: center;
     font-family: "Tilt Prism", serif;
-    font-size: xx-large;
+    font-size: 50px;
 }
 
+.recette{
+    display: flex;
+    flex-direction: row;
+    border: solid;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: #ffece8;
+
+}
+
+.teterecette{
+    flex: 1;
+    padding: 10px;
+}
+
+.pararecette{
+    flex: 4;
+    padding: 10px;
+}
+
+
+
+.comm1{
+    display: flex;
+    flex-direction: row;
+    border: solid, 1px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: #ffece8;
+
+}
+
+.tetecomm1{
+    flex: 1;
+    padding: 10px;
+}
+
+.paracomm1{
+    flex: 4;
+    padding: 10px;
+}
+
+
+.comm2{
+    display: flex;
+    flex-direction: row;
+    border: solid, 1px;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: #ffece8;
+}
+
+.tetecomm2{
+    flex: 1;
+    padding: 10px;
+}
+
+.paracomm2{
+    flex: 4;
+    padding: 10px;
+}
