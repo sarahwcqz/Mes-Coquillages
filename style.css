@@ -63,7 +63,7 @@ h1{
 }
 
 .pararecette{
-    flex: 6;
+    flex: 7;
     padding: 10px;
 }
 
@@ -86,7 +86,7 @@ h1{
 }
 
 .paracomm1{
-    flex: 6;
+    flex: 7;
     padding: 10px;
 }
 
@@ -107,6 +107,6 @@ h1{
 }
 
 .paracomm2{
-    flex: 6;
+    flex: 7;
     padding: 10px;
 }
