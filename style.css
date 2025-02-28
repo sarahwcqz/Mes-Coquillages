@@ -59,10 +59,11 @@ h1{
 .teterecette{
     flex: 1;
     padding: 10px;
+    font-size: small;
 }
 
 .pararecette{
-    flex: 4;
+    flex: 6;
     padding: 10px;
 }
 
@@ -81,10 +82,11 @@ h1{
 .tetecomm1{
     flex: 1;
     padding: 10px;
+    font-size: small;
 }
 
 .paracomm1{
-    flex: 4;
+    flex: 6;
     padding: 10px;
 }
 
@@ -101,9 +103,10 @@ h1{
 .tetecomm2{
     flex: 1;
     padding: 10px;
+    font-size: small;
 }
 
 .paracomm2{
-    flex: 4;
+    flex: 6;
     padding: 10px;
 }
