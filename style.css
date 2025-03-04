@@ -5,7 +5,6 @@ body{
 .header p{
     border: solid;
     border-radius: 5px;
-    margin: 20px, 10px, 10px, 10px;
     padding: 20px;
     background-color: #ffece8;
 }
@@ -22,8 +21,8 @@ body{
 .header{
     display: flex;
     flex-direction: row;
-    justify-content: left;
-    gap: 10px;
+    justify-content: center;
+    gap: 5px;
     color: #8c0c4c;
     font-family: "Train One", serif;
     font-weight: 400;
@@ -51,7 +50,7 @@ h1{
     flex-direction: row;
     border: solid;
     border-radius: 5px;
-    margin: 10px;
+    margin: 10px 5px 10px 5px;
     background-color: #ffece8;
 
 }
@@ -74,7 +73,7 @@ h1{
     flex-direction: row;
     border: solid, 1px;
     border-radius: 5px;
-    margin: 10px;
+    margin: 10px 5px 10px 5px;
     background-color: #ffece8;
 
 }
@@ -96,7 +95,7 @@ h1{
     flex-direction: row;
     border: solid, 1px;
     border-radius: 5px;
-    margin: 10px;
+    margin: 10px 5px 10px 5px;
     background-color: #ffece8;
 }
 
